@@ -1,4 +1,4 @@
-Privacy Policy  
+SongFlow Privacy Policy  
 ----------------
 
 - SongFlow does not collect any personal data.
